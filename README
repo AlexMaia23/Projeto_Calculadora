@@ -1,0 +1,1 @@
+Este código cria uma calculadora básica com números, operações matemáticas, um botão de limpar e um botão de igual. Quando o usuário clica em um botão, a função addToScreen é chamada, que adiciona o número ou operação correspondente à tela da calculadora. Quando o usuário clica no botão igual, a função calcula é chamada, que usa a função
